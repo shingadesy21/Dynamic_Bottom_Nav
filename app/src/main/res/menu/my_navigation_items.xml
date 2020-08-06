@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="@string/str_menu_one1"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/recent"
+        android:title="@string/str_menu_one2"
+        android:icon="@drawable/ic_recent"/>
+    <item android:id="@+id/favorites"
+        android:title="@string/str_menu_one3"
+        android:icon="@drawable/ic_favorites"/>
+    <item android:id="@+id/dynamic"
+        android:title="Global Upcoming"
+        android:icon="@drawable/ic_dynamic"
+        android:visible="false"
+        />
+</menu>

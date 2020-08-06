@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dynamic Bottom Nav</string>
+
+    <string name="str_menu_one1">HOME</string>
+    <string name="str_menu_one2">RECENT</string>
+    <string name="str_menu_one3">FAVORITES</string>
+    <string name="str_menu_one5">Dynamic</string>
+</resources>
